@@ -1,0 +1,10 @@
+insert into customer values (101, 'yayan', 'cianjur', 0812345678);
+insert into customer values (102, 'jajang', 'sukabumi', 0812436234);
+insert into customer values (103, 'mamang', 'jakarta', 081543641);
+insert into customer values (104, 'ujang', 'bogor', 083253264);
+insert into customer values (105, 'abang', 'bandung', 08643632);
+insert into customer values (106, 'iko', 'tasik', 081645274);
+insert into customer values (107, 'oki', 'banten', 085437542);
+insert into customer values (108, 'danny', 'cirebon', 0878659685);
+insert into customer values (109, 'max', 'karawang', 088945378);
+insert into customer values (110, 'bruce', 'bekasi', 0843216757);

@@ -1,0 +1,10 @@
+insert into orders values (1231, 101, '2022-08-01', 201, 001);
+insert into orders values (1232, 102, '2022-08-02', 202, 002);
+insert into orders values (1233, 103, '2022-08-03', 203, 003);
+insert into orders values (1234, 104, '2022-08-04', 204, 004);
+insert into orders values (1235, 105, '2022-08-05', 205, 005);
+insert into orders values (1236, 106, '2022-08-06', 206, 006);
+insert into orders values (1237, 107, '2022-08-07', 207, 007);
+insert into orders values (1238, 108, '2022-08-08', 208, 008);
+insert into orders values (1239, 109, '2022-08-09', 209, 009);
+insert into orders values (12310, 110, '2022-08-10', 210, 010);

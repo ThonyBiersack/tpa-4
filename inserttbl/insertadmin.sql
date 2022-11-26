@@ -1,0 +1,10 @@
+insert into admin values (301, 'admin 1', 25000, '2001-01-01');
+insert into admin values (302, 'admin 2', 25000, '2001-02-02');
+insert into admin values (303, 'admin 3', 25000, '2001-03-03');
+insert into admin values (304, 'admin 4', 25000, '2001-04-04');
+insert into admin values (305, 'admin 5', 25000, '2001-05-05');
+insert into admin values (306, 'admin 6', 25000, '2001-06-06');
+insert into admin values (307, 'admin 7', 25000, '2001-07-07');
+insert into admin values (308, 'admin 8', 25000, '2001-08-08');
+insert into admin values (309, 'admin 9', 25000, '2001-09-09');
+insert into admin values (310, 'admin 10', 25000, '2001-10-10');
